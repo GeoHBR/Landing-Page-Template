@@ -1,22 +1,22 @@
-# Modelo-Landing-Page
+# Landing Page Template
 ![image](https://github.com/GeoHBR/Modelo-Landing-Page/assets/83028395/0dbf557d-dcbf-492a-93c7-701daaada546)
-Este repositório contém um simples código HTML e CSS para uma Landing Page temática de jogos, projetada para promover uma empresa fictícia no mundo dos games.
+This repository contains a simple HTML and CSS code for a game-themed Landing Page designed to promote a fictional company in the gaming world.
 
-## Pré-requisitos
-Para executar e personalizar o Modelo de Langing Page, você precisará ter instalado:
+## Prerequisites
+To run and customize the Landing Page Template, you will need to have the following installed:
 
-- Um editor de código de sua preferência (recomendado o Visual Studio Code).
-- Um navegador web atualizado.
+- A code editor of your choice (Visual Studio Code is recommended).
+- An updated web browser.
 
-## Como Usar
+## How to Use
 
-1. Clone este repositório em sua máquina local utilizando o comando: `git clone https://github.com/GeoHBR/Modelo-Landing-Page.git`
-2. Abra o diretório clonado em seu editor de código.
-3. Personalize a landing page conforme necessário, alterando textos, imagens e estilos como desejar.
-4. Abra o arquivo `index.html` em seu navegador para visualizar a landing page.
+1. Clone this repository to your local machine using the command: `git clone https://github.com/GeoHBR/Landing-Page-Template.git`
+2. Open the cloned directory in your code editor.
+3. Customize the landing page as needed by modifying texts, images, and styles as desired.
+4. Open the `index.html` file in your browser to preview the landing page.
 
-## Licença
-Sinta-se à vontade para usar, modificar e distribuir este código conforme necessário.
+## License
+Feel free to use, modify, and distribute this code as needed.
 
-## Contato
+## Contact
 gilmarvcjr@gmail.com
